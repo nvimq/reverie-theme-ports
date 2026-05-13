@@ -57,7 +57,7 @@ Original theme **Reverie** by [Santi Younger](https://github.com/santiyounger)
 → [santiyounger/Reverie-Obsidian-Theme](https://github.com/santiyounger/Reverie-Obsidian-Theme)
 
 These ports use only the colour palette from the original theme.  
-All format-specific code was written from scratch.
+All format-specific code is original and unrelated to the Obsidian CSS source.
 
 <br>
 
